@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+sentence-transformers
+ipykernel
+langchain_groq
+langchain_community
+langchain_chroma
+langchain_huggingface
+youtube-transcript-api
+yt_dlp
+youtube-transcript-api
